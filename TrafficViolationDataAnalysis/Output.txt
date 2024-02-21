@@ -1,0 +1,47 @@
+Traffic Violation Data Analysis
+
+Number of rows : 1018634
+Number of columns : 35
+Variables : Date Of Stop, Time Of Stop, Agency, SubAgency, Description, Location, Latitude, Longitude, Accident, Belts, Personal Injury, Property Damage, Fatal, Commercial License, HAZMAT, Commercial Vehicle, Alcohol, Work Zone, State, VehicleType, Year, Make, Model, Color, Violation Type, Charge, Article, Contributed To Accident, Race, Gender, Driver City, Driver State, DL State, Arrest Type, Geolocation
+
+Contribute to Accident : 
+No : 
+('alcohol', 0.0018763762521319032)
+('belts', 0.034141605603199184)
+('fatal', 0.00014371815964373978)
+Yes : 
+('alcohol', 0.004908806229105836)
+('belts', 0.11848842621979604)
+('fatal', 0.002962210655494901)
+
+
+Violations : 
+ States : NC,CT,NJ
+Citation : 
+('alcohol', 0.0018466824135709684)
+('belts', 0.03938157612196693)
+('fatal', 0.0006012454369765944)
+Warning : 
+('alcohol', 0.00020485506504148315)
+('belts', 0.025811738195226877)
+('fatal', 0.00010242753252074157)
+
+
+Violations : 
+ Male : 
+Citation : 
+('alcohol', 0.003865596193874517)
+('belts', 0.04182963928726641)
+('fatal', 0.0002516068528557378)
+ESERO : 
+('alcohol', 8.497379974507861e-05)
+('belts', 0.028607845914176463)
+('fatal', 2.83245999150262e-05)
+SERO : 
+('alcohol', 0.0029806259314456036)
+('belts', 0.06706408345752608)
+('fatal', 0.0)
+Warning : 
+('alcohol', 0.00021989025784669927)
+('belts', 0.026941630976786354)
+('fatal', 0.00012516830062042882)

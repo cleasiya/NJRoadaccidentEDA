@@ -1,0 +1,5 @@
+https://github.com/patankaraditya1/Traffic-Violation-Data-Analysis-using-Python/blob/master/RMAKHIJA_APATANKA_report.pdf
+
+https://www.kaggle.com/felix4guti/traffic-violations-in-usa
+
+https://blog.patricktriest.com/police-data-python/
